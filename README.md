@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
   [![MyBlog](https://github.com/eunoia3/MyAppKotlin02/assets/67309720/dd34e5d8-c0f3-44c8-a3e5-aef51940cc93)](https://eunoia3jy.tistory.com/207)
   <br>
-  [![MyBlog](https://github.com/eunoia3/MyAppKotlin02/assets/67309720/a8facfd9-20c5-4bdc-8bff-68a56046a01b)]([https://velog.io/@woo0_hooo](https://eunoia3jy.tistory.com/206)https://eunoia3jy.tistory.com/206)
+  [![MyBlog](https://github.com/eunoia3/MyAppKotlin02/assets/67309720/a8facfd9-20c5-4bdc-8bff-68a56046a01b)](https://eunoia3jy.tistory.com/206)
   
 </div>
 
